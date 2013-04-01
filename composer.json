@@ -1,0 +1,23 @@
+{
+    "name": "jer/jer-route-layouts",
+    "description": "Simple ZF2 module for making route based layouts.",
+    "type": "library",
+    "keywords": [
+        "zf2"
+    ],
+    "homepage": "https://github.com/wdJer/JerRouteLayout",
+    "authors": [
+        {
+            "name": "Juergen Eger",
+            "email": "eger.juergen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
