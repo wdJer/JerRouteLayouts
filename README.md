@@ -1,4 +1,2 @@
-JerRouteLayouts
+JerRouteLayouts Module for Zend Framework 2
 ===============
-
-Simple ZF2 Module for making route based layouts
