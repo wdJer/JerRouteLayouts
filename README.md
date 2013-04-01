@@ -1,11 +1,11 @@
 JerRouteLayouts Module for Zend Framework 2
 ===============
 
-Version 0.0.1 created by Juergen Eger
+Version 1.0.0 created by Juergen Eger
 
 Introduction
 ---------------
-JerRouteLayouts is a very simple ZF2 module (less than 20 lines) that simply allows you to specify alternative layouts to use for each route.
+JerRouteLayouts is a very simple ZF2 module (less than 50 lines) that simply allows you to specify alternative layouts to use for each route.
 If no layout is defined for a specific route JerRouteLayouts is able to find layouts in parent routes too.
 
 Usage
